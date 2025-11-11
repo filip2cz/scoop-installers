@@ -5,6 +5,10 @@
 
 Bucket with manifest that acts basically same way as winget - just download latest installation package and run it. Nothing more.
 
+## Why? Winget already exists
+
+I just do not like winget, it tries to manage apps that were not installed by it, etc. If you find winget better for you, just use winget. But if you have same opinion as me, maybe this suits you better.
+
 ## How do I install these manifests?
 
 After manifests have been committed and pushed, run the following:
